@@ -37,3 +37,13 @@ cd weather-etl-pipeline
 
 ```bash
 pip install requests pandas
+```
+
+3)Configuration
+
+Replace the API key in the script:
+
+```python
+API_KEY = "your_openweather_api_key_here"
+'''
+
