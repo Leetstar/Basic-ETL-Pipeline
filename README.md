@@ -45,5 +45,45 @@ Replace the API key in the script:
 
 ```python
 API_KEY = "your_openweather_api_key_here"
-'''
+```
 
+## Pipeline Steps
+
+
+1. Extract
+
+Makes API calls to OpenWeatherMap for each city
+
+Retrieves: temperature, humidity, pressure, coordinates, and weather description
+
+Handles API errors gracefully
+
+2. Transform
+
+Converts API response to structured DataFrame
+
+Formats coordinate data to readable format
+
+Identifies cities with temperature > 35°C
+
+3. Analyze
+
+Calculates temperature statistics:
+
+Mean temperature
+
+Minimum temperature
+
+Maximum temperature
+
+Temperature range
+
+Computes correlation between temperature and humidity
+
+4. Load
+
+Saves processed data to weather_data_cleaned.csv
+
+Output Files
+
+weather_data_cleaned.csv: Contains cleaned weather data for all cities
