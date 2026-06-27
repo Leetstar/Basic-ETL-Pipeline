@@ -28,3 +28,5 @@ OpenWeatherMap API key (free tier available)
 ## Installation
 
 1)Clone the repository:
+
+![image alt](https://github.com/Leetstar/Basic-ETL-Pipeline/blob/2c6e2e01004aa40140e08d0951c20057d0732ebc/install.png)
