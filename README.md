@@ -1,4 +1,4 @@
-Weather Data ETL Pipeline
+# Weather Data ETL Pipeline
 
 ## Overview
 
@@ -7,7 +7,7 @@ This project implements a simple ETL (Extract, Transform, Load) pipeline that fe
 ![image alt](https://github.com/Leetstar/Basic-ETL-Pipeline/blob/d9159958e5f4ed8812d33eb964beb23a3189de84/architecture.png)
 
 
-Features
+## Features
 
 Extract: Fetches weather data from OpenWeatherMap API for 6 cities
 
