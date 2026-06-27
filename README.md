@@ -26,4 +26,5 @@ OpenWeatherMap API key (free tier available)
 
 
 Installation
+
 1)Clone the repository:
