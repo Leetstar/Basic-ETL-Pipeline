@@ -32,3 +32,8 @@ OpenWeatherMap API key (free tier available)
 ```bash
 git clone <repository-url>
 cd weather-etl-pipeline
+```
+2)Install required packages:
+
+```bash
+pip install requests pandas
