@@ -18,7 +18,7 @@ Load: Saves processed data to CSV file
 Analyze: Calculates statistics and correlations
 
 
-Prerequisites
+## Prerequisites
 
 Python 3.6+
 
