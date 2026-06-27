@@ -29,7 +29,6 @@ OpenWeatherMap API key (free tier available)
 
 1)Clone the repository:
 
-'''bash
-
+```bash
 git clone <repository-url>
 cd weather-etl-pipeline
