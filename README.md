@@ -25,6 +25,6 @@ Python 3.6+
 OpenWeatherMap API key (free tier available)
 
 
-Installation
+## Installation
 
 1)Clone the repository:
