@@ -21,6 +21,7 @@ Analyze: Calculates statistics and correlations
 Prerequisites
 
 Python 3.6+
+
 OpenWeatherMap API key (free tier available)
 
 
